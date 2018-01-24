@@ -6,9 +6,9 @@ import org.springframework.web.bind.annotation.RestController;
 
 @RestController
 @SpringBootApplication
-public class Ch76Application {
+public class StartApplication {
 
 	public static void main(String[] args) {
-		SpringApplication.run(Ch76Application.class, args);
+		SpringApplication.run(StartApplication.class, args);
 	}
 }
